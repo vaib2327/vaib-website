@@ -1,0 +1,22 @@
+*{
+    color: white;
+}
+#bar{
+    height: 30px;
+    background-color: black;
+    margin-top: 30px;
+   
+}
+#logo{
+    
+    color: rgb(192, 135, 30);
+    padding-top: 10px;
+    padding-left:25px;
+
+}
+button{
+    background-color: orange;
+}
+a{
+    padding-right: 180px;
+}
